@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bild-Widget</string>
+    <string name="title">Widget einrichten</string>
+    <string name="pick_image">Bild auswählen</string>
+    <string name="hint_text">Text</string>
+    <string name="hint_url">Link (z. B. https://eshop-it.ch)</string>
+    <string name="save">Speichern &amp; Widget aktualisieren</string>
+    <string name="add_widget">Widget zum Homescreen hinzufügen</string>
+    <string name="saved">Gespeichert – Widget aktualisiert</string>
+    <string name="url_invalid">Ungültiger Link</string>
+    <string name="image_error">Bild konnte nicht geladen werden</string>
+    <string name="pin_not_supported">Bitte das Widget manuell hinzufügen: Homescreen lange drücken → Widgets.</string>
+    <string name="image_desc">Widget-Bild</string>
+    <string name="default_text">Tippe aufs Bild, um den Link zu öffnen</string>
+    <string name="widget_description">Bild mit Text – Tippen aufs Bild öffnet deinen Link</string>
+</resources>
